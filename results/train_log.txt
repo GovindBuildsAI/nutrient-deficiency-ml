@@ -1,0 +1,109 @@
+classes=['B-Vitamins', 'No Deficiency', 'Vitamin A', 'Vitamin C', 'Vitamin D']
+dev=5292 holdout=935
+[Parallel(n_jobs=4)]: Using backend LokyBackend with 4 concurrent workers.
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+[Parallel(n_jobs=4)]: Done  12 out of  15 | elapsed:  7.8min remaining:  2.0min
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/svm/_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/Users/govindsharma/Desktop/College Project Phase Two/.venv/lib/python3.12/site-packages/sklearn/neural_network/_multilayer_perceptron.py:785: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (500) reached and the optimization hasn't converged yet.
+  warnings.warn(
+[Parallel(n_jobs=4)]: Done  15 out of  15 | elapsed: 10.2min finished
+CV done in 613s
+                   accuracy_mean  precision_mean  recall_mean  f1_mean  auc_mean
+model                                                                           
+Gradient Boosting         0.6824          0.3079       0.3009   0.2987    0.7063
+SVM                       0.6206          0.2866       0.3044   0.2913    0.6786
+Random Forest             0.7008          0.3157       0.2799   0.2901    0.7170
+MLP                       0.6140          0.2690       0.2832   0.2737    0.6498
+XGBoost                   0.7359          0.3320       0.2463   0.2568    0.7064
+AdaBoost                  0.3823          0.2625       0.3648   0.2404    0.6863
+Decision Tree             0.5156          0.2395       0.2658   0.2394    0.5442
+Naive Bayes               0.3088          0.2625       0.3581   0.2182    0.6628
+KNN                       0.3342          0.2468       0.3118   0.2111    0.5931
+baseline {'accuracy': 0.7621, 'f1': 0.173, 'auc': 0.5}
+{
+  "best": "Gradient Boosting",
+  "ranked": [
+    "Gradient Boosting",
+    "SVM",
+    "Random Forest",
+    "MLP",
+    "XGBoost",
+    "AdaBoost",
+    "Decision Tree",
+    "Naive Bayes",
+    "KNN"
+  ],
+  "friedman_chi2": 93.91999999999996,
+  "friedman_p": 7.423202846611614e-17,
+  "winner_vs_rival_holm_p": {
+    "AdaBoost": 0.00048828125,
+    "Decision Tree": 0.00048828125,
+    "KNN": 0.00048828125,
+    "Naive Bayes": 0.00048828125,
+    "XGBoost": 0.00048828125,
+    "MLP": 0.04522705078125,
+    "Random Forest": 0.5047607421875,
+    "SVM": 0.5047607421875
+  },
+  "n_folds": 15,
+  "baseline_accuracy": 0.762094103828736,
+  "baseline_f1": 0.17299731903485252
+}
+HOLD-OUT {'accuracy': 0.6738, 'precision': 0.2867, 'recall': 0.2811, 'f1': 0.2764, 'f1_weighted': 0.6662, 'auc': 0.6905}
+saved /Users/govindsharma/Desktop/College Project Phase Two/models/best_model.joblib

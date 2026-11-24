@@ -1,0 +1,7 @@
+no SMOTE, p*=30 {'AdaBoost': 0.184, 'Decision Tree': 0.253, 'Gradient Boosting': 0.233, 'KNN': 0.225, 'MLP': 0.27, 'Naive Bayes': 0.274, 'Random Forest': 0.192, 'SVM': 0.195, 'XGBoost': 0.219}
+SMOTE 0.25, p*=30 {'AdaBoost': 0.266, 'Decision Tree': 0.264, 'Gradient Boosting': 0.262, 'KNN': 0.261, 'MLP': 0.282, 'Naive Bayes': 0.233, 'Random Forest': 0.243, 'SVM': 0.311, 'XGBoost': 0.245}
+SMOTE 0.5, p*=30 {'AdaBoost': 0.266, 'Decision Tree': 0.239, 'Gradient Boosting': 0.268, 'KNN': 0.234, 'MLP': 0.267, 'Naive Bayes': 0.227, 'Random Forest': 0.277, 'SVM': 0.316, 'XGBoost': 0.245}
+SMOTE 1.0, p*=30 (documented) {'AdaBoost': 0.232, 'Decision Tree': 0.239, 'Gradient Boosting': 0.295, 'KNN': 0.215, 'MLP': 0.275, 'Naive Bayes': 0.21, 'Random Forest': 0.304, 'SVM': 0.3, 'XGBoost': 0.258}
+SMOTE 1.0, p*=15 {'AdaBoost': 0.218, 'Decision Tree': 0.241, 'Gradient Boosting': 0.267, 'KNN': 0.222, 'MLP': 0.254, 'Naive Bayes': 0.206, 'Random Forest': 0.282, 'SVM': 0.272, 'XGBoost': 0.262}
+SMOTE 1.0, all features {'AdaBoost': 0.246, 'Decision Tree': 0.256, 'Gradient Boosting': 0.305, 'KNN': 0.214, 'MLP': 0.273, 'Naive Bayes': 0.136, 'Random Forest': 0.292, 'SVM': 0.311, 'XGBoost': 0.262}
+ALLDONE

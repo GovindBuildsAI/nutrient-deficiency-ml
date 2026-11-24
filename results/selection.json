@@ -1,0 +1,120 @@
+{
+  "best": "Gradient Boosting",
+  "ranked": [
+    "Gradient Boosting",
+    "SVM",
+    "Random Forest",
+    "MLP",
+    "XGBoost",
+    "AdaBoost",
+    "Decision Tree",
+    "Naive Bayes",
+    "KNN"
+  ],
+  "friedman_chi2": 93.91999999999996,
+  "friedman_p": 7.423202846611614e-17,
+  "winner_vs_rival_holm_p": {
+    "AdaBoost": 0.00048828125,
+    "Decision Tree": 0.00048828125,
+    "KNN": 0.00048828125,
+    "Naive Bayes": 0.00048828125,
+    "XGBoost": 0.00048828125,
+    "MLP": 0.04522705078125,
+    "Random Forest": 0.5047607421875,
+    "SVM": 0.5047607421875
+  },
+  "n_folds": 15,
+  "baseline_accuracy": 0.762094103828736,
+  "baseline_f1": 0.17299731903485252,
+  "holdout": {
+    "accuracy": 0.6737967914438503,
+    "precision": 0.28670536670536667,
+    "recall": 0.28106445890005916,
+    "f1": 0.2764174998920371,
+    "f1_weighted": 0.6661629011550296,
+    "auc": 0.6905433626691871,
+    "f1_class0": 0.24468085106382978,
+    "f1_class1": 0.8181818181818182,
+    "f1_class2": 0.034482758620689655,
+    "f1_class3": 0.17721518987341772,
+    "f1_class4": 0.10752688172043011
+  },
+  "holdout_confusion": [
+    [
+      23,
+      69,
+      6,
+      12,
+      4
+    ],
+    [
+      44,
+      594,
+      26,
+      27,
+      21
+    ],
+    [
+      3,
+      13,
+      1,
+      0,
+      2
+    ],
+    [
+      0,
+      22,
+      0,
+      7,
+      1
+    ],
+    [
+      4,
+      42,
+      6,
+      3,
+      5
+    ]
+  ],
+  "classes": [
+    "B-Vitamins",
+    "No Deficiency",
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin D"
+  ],
+  "selected_features": [
+    "age_years",
+    "income_poverty_ratio",
+    "bmi",
+    "waist_cm",
+    "height_cm",
+    "weight_kg",
+    "protein_g",
+    "carbs_g",
+    "sugar_g",
+    "fibre_g",
+    "sat_fat_g",
+    "cholesterol_mg",
+    "intake_vitA_mcg",
+    "intake_vitC_mg",
+    "intake_vitE_mg",
+    "intake_folate_mcg",
+    "intake_b12_mcg",
+    "intake_b6_mg",
+    "intake_calcium_mg",
+    "intake_iron_mg",
+    "intake_zinc_mg",
+    "intake_magnesium_mg",
+    "caffeine_mg",
+    "potassium_mg",
+    "education_level",
+    "general_health",
+    "self_rated_diet",
+    "milk_frequency",
+    "gender_1.0",
+    "smoked_100_cigs_1.0"
+  ],
+  "n_dev": 5292,
+  "n_holdout": 935
+}
